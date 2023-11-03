@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikum Winform Youtube", "Praktikum Winform Youtube\Praktikum Winform Youtube.csproj", "{BFD8DCF2-8120-41B6-9063-D29B3E5B42A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD8DCF2-8120-41B6-9063-D29B3E5B42A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD8DCF2-8120-41B6-9063-D29B3E5B42A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD8DCF2-8120-41B6-9063-D29B3E5B42A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD8DCF2-8120-41B6-9063-D29B3E5B42A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF476B16-B165-4275-A14E-7F1E1889114D}
+	EndGlobalSection
+EndGlobal
